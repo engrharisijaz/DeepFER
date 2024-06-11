@@ -1,6 +1,6 @@
 # DeepFER: Facial Emotion Recognition Using Deep Learning
 
-## Download the trained model form [here] (https://drive.google.com/file/d/1qG-DFwfYFjQVzfMSNSv-UPU-New7PCmU/view?usp=sharing)
+## Download the trained model form [here](https://drive.google.com/file/d/1qG-DFwfYFjQVzfMSNSv-UPU-New7PCmU/view?usp=sharing)
 
 ## Introduction
 
