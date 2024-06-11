@@ -1,5 +1,7 @@
 # DeepFER: Facial Emotion Recognition Using Deep Learning
 
+## Download the trained model form here [https://drive.google.com/file/d/1qG-DFwfYFjQVzfMSNSv-UPU-New7PCmU/view?usp=sharing] 
+
 ## Introduction
 
 DeepFER: Facial Emotion Recognition Using Deep Learning aims to leverage the power of Convolutional Neural Networks (CNNs) and Transfer Learning to build a robust and efficient facial emotion recognition system. By training the model on a diverse dataset and employing advanced techniques, the project seeks to achieve high accuracy and real-time processing capabilities, enabling its use in real-world scenarios.
